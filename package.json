@@ -16,7 +16,7 @@
   "dependencies": {
     "assert": "^1.4.1",
     "co": "^4.6.0",
-    "mongodb": "^2.2.31",
+    "mongodb": "^3.1.13",
     "mongodb-client": "0.0.1"
   }
 }
